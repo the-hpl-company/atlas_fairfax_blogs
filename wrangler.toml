@@ -1,4 +1,0 @@
-name = "atlas-fairfax-blog"
-
-[site]
-bucket = "."
